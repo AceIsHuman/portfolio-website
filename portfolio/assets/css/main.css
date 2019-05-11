@@ -3831,7 +3831,7 @@ input, select, textarea {
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
 				padding-bottom: 1px;
-				padding-top: 44px !important;
+/*				padding-top: 44px !important;*/
 			}
 
 			#titleBar {
@@ -3843,7 +3843,7 @@ input, select, textarea {
 				-webkit-transition: -webkit-transform 0.5s ease;
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
-				display: block;
+				display: none;
 				height: 44px;
 				left: 0;
 				position: fixed;
